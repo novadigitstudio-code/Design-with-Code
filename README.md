@@ -55,4 +55,5 @@ Le projet est structuré comme un tableau de bord interactif, offrant une vue d'
 - [x] Gestion d'états d'environnement via JavaScript Vanilla.
 - [x] Création d'assets graphiques 100% Code-Based.
 
+
 © 2026 **NovaDigit Studio** | *Code with Precision, Design with Impact.*
